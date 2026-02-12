@@ -8,9 +8,9 @@ weight = 1
 
 ### About
 
-I'm Rikke Solbjørg. This page exists mostly as a new place for me to put things I find interesting, whatever that may be: I like reading, movies, music, programming, games (board or video), to name a few things. I made it because I needed to write things and I needed somewhere to put them; if you want to read them, too, that's great!
+I'm Rikke Solbjørg. This page exists mostly as a new place for me to put things I find interesting, whatever that may be: I like reading, movies, music, programming, games (board or video), to name a few things. I made it because I needed to write things and I needed somewhere to put them; if you want to read them, too, that's great! On this website I currently maintain a [blog](./blog) as well as an overview of what I'm [reading](./reading).
 
-My dayjob is in software development: I've worked on embedded Linux, Qt, web, games, digital design and verification, DevOps and CI/CD, and more. I'm lucky to work on things I find interesting.
+My dayjob is in software development: I've worked on embedded Linux, Qt, web, games, digital design and verification, DevOps and CI/CD, and more. I try to keep an eye out for opportunities to learn more in my field; I'm lucky to work on things I find fun and interesting.
 
 ### LLM Disclaimer
 
