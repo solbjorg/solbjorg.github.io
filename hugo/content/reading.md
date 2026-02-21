@@ -4,30 +4,54 @@ menu = "main"
 title = 'Reading'
 +++
 
-This section of my website is dedicated to books: things I've read, things I'm currently reading, as well as my thoughts on (some of) them. Currently I've only included books I've read in 2026, though I'm planning to backfill with books I've read from at least the past couple years. I usually give an abstract rating from 1 to 5 of the books I read---while I don't think this really captures my feelings about a book very well, it at least helps me look back at a glance and remember if I really loved (or loathed!) a book at the time I read it.
+*Last updated: 2026-02-21*
+
+This section of my website is dedicated to books: things I've read, things I'm currently reading, as well as my thoughts on some of them. Currently I've only included books I've read in 2026, though I'm planning to backfill with books I've read from at least the past couple years. I usually give an abstract rating from 1 to 5 of the books I read---while I don't think this really captures my feelings about a book very well, it at least helps me look back at a glance and remember if I really loved (or loathed!) a book at the time I read it.
 
 Items in the list that start with an arrow can be clicked to expand into some thoughts on the book. This page may become deceptively long in due time!
 
-### Currently reading
+## Currently reading
 
-{{< details "Leviathan Wakes by James S. A. Corey" >}}
+{{< details "Abaddon's Gate by James S. A. Corey" >}}
 
-I recently finished the Mass Effect trilogy of games, and wanted to read some light space opera in a similar vein. This is currently hitting the spot! Very quick read too.
-{{< /details >}}
+Tearing through these books, but I will probably take a break after this one :)
+
+{{</details>}}
 
 Farvel til Eddy Bellegeule (En finir avec Eddy Bellegeule) by Édouard Louis
 
 {{< details "The Lacanian Subject by Bruce Fink" >}}
 
-My partner convinced me to read Lacan, but as I quickly realised, reading Lacan himself is a bad idea. This is the second book I'm reading about it, after first checking out *How to read Lacan*, which I found not very cogent at all (but at least a fun read).
+My partner convinced me to read Lacan, but as I quickly realised, reading Lacan himself is a bad idea. This is the second book I'm reading about it, after first checking out *How to Read Lacan*, which I found not very cogent at all (but at least a fun read).
 {{< /details >}}
 
 
-### Read
+## Read
+
+### 2026
 
 These are the books I've finished in 2026; I generally don't note down books I didn't finish, mostly because if I didn't finish a book I rarely have much to say about it!
 
-Last Night at the Telegraph Club by Malinda Lo 
+#### February
+
+{{< details "Caliban's War by James S. A. Corey" "4/5⭐" >}}
+
+A huge upgrade! This book follows four perspectives rather than two, showing us more facets of the conflict and crafting a narrative far less linear. The pacing is slower as a result, but it feels like it has more weight---where it felt small in the first book it feels just right here. I never really cared that much about Prax's chapters, but Bobbie and Avasarala were both great new characters. Onto the next!
+{{< /details >}}
+
+{{< details "Leviathan Wakes by James S. A. Corey" "3/5⭐" >}}
+
+I recently finished the Mass Effect trilogy of games, and wanted to read some light space opera in a similar vein. This hit the spot! Very quick read too.
+
+This book was a little *too* fast-paced for me. We only follow two perspectives, ping-ponging between them quite rapidly with each chapter informing the next. This makes for a very fast read, but it also makes the narrative feel linear and the world feel small---despite a threat against the entire solar system. But I had enough fun to jump right to the second book, so I can't say I didn't enjoy myself.
+{{< /details >}}
+
+{{< details "Last Night at the Telegraph Club by Malinda Lo " "3/5⭐ 🎧" >}}
+
+I honestly don't have much to say about this one! It portrays the coming-of-age of a gay second-generation Chinese-American immigrant in McCarthyist US, and I think it did a good job of painting a picture of the period---but at the same time the book didn't do that much for me. It was fine! I'm no expert on the period but it seems fairly accurate, the character writing is believable and empathetic, but it is also quite slow and the central romance is a bit plain. (Though I do appreciate the portrayal of a baby butch!) This is the sort of book where nothing much happens until 3/4 of the way through, and I often felt like the book could use some more momentum; this momentum is especially lacking because the book included a flashback at the end of every part to one of the protagonist's family members, and while these flashbacks are good on their own and serve their purpose, they take an already slow book and make it even slower. This is also firmly in the YA camp, but I mostly found myself caring more about the adults than the children really.
+
+I liked it overall, but I don't think it will stick with me.
+{{< /details >}}
 
 {{< details "The Candy House by Jennifer Egan" "4.5/5⭐">}}
 
@@ -43,10 +67,12 @@ Some people will shake their heads at literary fiction "pretending at" being sci
 
 A Visit from the Goon Squad shares a similar structure to this book, but I think, while Goon Squad was great, it really works here. The stories are all connected by distant connections across space and time, much like people are able to make sense of the past and find new connections when sifting through the memories of others uploaded to the cloud. The form of the book mirrors the impact Own Your Unconscious is having. Each chapter plays with form, and my favourite instance of this was a story set in the past, with a present-tense omniscient narrator. What you learn, eventually, is that this is not an omniscient narrator, nor is it in the past: it is a cobbled together narrative of what happened to a woman's father, based on the memories she can find in the cloud (and just as much the memories she can't find).
 
-There is a character speculated to be trans in the penultimate chapter, and I strongly disliked her pixie girl-ish characterisation. I think I do see what it's going for at least: the book has an overarching theme of authenticity (which sounds more trite said out loud than I found it while reading). I think she is intended as someone in (desperate) search of it, and I think abandoning your name and its place in the symbolic order to search for something new and real and true is perhaps the most "authentic" thing one can do. It is also impossible to fully escape this alienation and the book implies as much! In this way I think it "works", yet I still find it could have been written from a place of real empathy (to treat someone as a Real Person) rather than one trying to make a "literary point". 
+There is a character speculated to be trans in the penultimate chapter, and I strongly disliked her pixie girl-ish characterisation. I think I do see what it's going for at least: the book has an overarching theme of authenticity (which sounds more trite said out loud than I found it while reading). I think she is intended as someone in (desperate) search of it, and I think abandoning your name and its place in the symbolic order to search for something new and real and true is perhaps the most "authentic" thing one can do. It is also impossible to fully escape this alienation and the book implies as much! In this way I think it "works", yet I still find it could have been written from a place of real empathy (to treat someone as a Real Person) rather than one trying to make a literary point.
 
 Not every story in this book is made equal, but all of them are at least good, clever, and none of them waste your time. If you liked A Visit from the Goon Squad you'll almost definitely like this; if you want something that spends a lot of time with the sci-fi-ish premise you won't like this. Sometimes screaming is the only real thing you can do.
 {{</details>}}
+
+#### January
 
 {{< details "How to read Lacan by Slavoj Žižek" "3/5⭐">}}
 
@@ -100,7 +126,7 @@ The characterisation in this is also fairly weak. There was one bit of character
 In short: this is a shounen about a magic student stuck in a time loop, and if that sounds appealing to you, you'll probably like it. If not, steer away!
 {{</details>}}
 
-{{<details "Carrie Soto is Back by Taylor Jenkins Reid" "4/5⭐">}}
+{{<details "Carrie Soto is Back by Taylor Jenkins Reid" "4/5⭐ 🎧">}}
 
 This was a fun one! Keeping up the TJR streak of fun enjoyable books for me (we're ignoring Malibu Rising, which I found quite bad). 
 
@@ -114,7 +140,7 @@ Although on the surface it shares characteristics with sports anime of all thing
 This was a fun classic fantasy book with surprisingly great character writing. I particularly adored the opening chapters depicting the broken man the main character had become. This eventually gives way to a grounded fantasy story with political maneuvering and dark unknowable magic: I enjoyed this, too, but I did miss the tenderness of those earlier chapters. There's an interesting depiction of religion here: despite the gods being provably real there are still fairly realistic disagreements on how to delineate those deities, and they are also written as fundamentally unknowable.
 {{</details>}}
 
-{{< details "Two Can Play by Ali Hazelwood" "2.5/5⭐">}}
+{{< details "Two Can Play by Ali Hazelwood" "2.5/5⭐ 🎧">}}
 
 I picked this up out of curiosity more than anything, as it was available on Libby and none of my holds had come in yet. I'm not much of a romance reader, and although I knew she had exploded in popularity I only knew Ali Hazelwood as "the Reylo author". (That turned out to be pretty much an accurate description.) I didn't really like this, but I didn't *dislike* it either: it flew by quickly while I cleaned the apartment, and I can't say I've thought much about it since finishing it. As romances go it's fine, I guess, if frankly a bit saccharine and dull.
 
@@ -141,3 +167,7 @@ It's pretty obvious what it's all leading up to, though, but I am in my late twe
 
 Can a child be ontologically evil? Steve is a dumb name for a vampire hunter.
 {{</details>}}
+
+### 2025
+
+I haven't written up a complete overview of 2025 yet, but I did write a [blog post]({{< relref "/blog/books-2025" >}}) about my reading highlights from that year.
