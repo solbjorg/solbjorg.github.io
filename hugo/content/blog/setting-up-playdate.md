@@ -103,7 +103,7 @@ Here I simply followed [the official guide](https://sdk.play.date/3.0.3/Inside%2
         └── ball.png
 ```
 
-(More on the build script in the next section.) This does strike me as a little messier than I would've liked---I will probably end up amending the setup script to place the SDK and type hints elsewhere.[^2]
+This does strike me as a little messier than I would've liked---I will probably end up amending the setup script to place the SDK and type hints elsewhere.[^2]
 
 Just for testing, I ended up with a very simple `main.lua` file adapted from the official guide linked above:
 
